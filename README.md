@@ -62,24 +62,10 @@ uv pip install -r pyproject.toml
 
 MIT License
 
-🙋‍♂️ 致谢
+## 🙋‍♂️ 致谢
 
 感谢以下开源项目提供灵感与支持：
-	•	LangChain
-	•	OpenRouter
-	•	Ollama
-	•	Gemini API
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [OpenRouter](https://openrouter.ai/)
+- [Ollama](https://ollama.com/)
+- [Gemini API](https://ai.google.dev/)
